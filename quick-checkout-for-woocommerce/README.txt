@@ -2,7 +2,7 @@
 Contributors: noruzzaman, sanaf
 Tags: checkout, quick checkout, direct checkout, quick view, Add to Cart
 Requires at least: 5.0
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 1.5.0
 Requires PHP: 7.0
 License: GPLv2 or later
@@ -59,7 +59,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 - **Developer-Friendly:** Easily customizable to suit your specific needs.
 
 
+
 == Support ==
+
+If you encounter any issues or have questions about the plugin, please visit our support forum at **[Submit Ticket](https://wordpress.org/support/plugin/quick-checkout-for-woocommerce/)**. We are here to help you with any concerns you may have.
 
 If you have any questions, please email us at **[noruzzaman19@gmail.com](mailto:noruzzaman19@gmail.com)**
 
